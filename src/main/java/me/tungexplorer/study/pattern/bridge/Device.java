@@ -1,4 +1,4 @@
-package me.tungexplorer.study.bridge;
+package me.tungexplorer.study.pattern.bridge;
 
 abstract class EntertainmentDevice {
     public int deviceState;

@@ -1,4 +1,4 @@
-package me.tungexplorer.study.bridge;
+package me.tungexplorer.study.pattern.bridge;
 
 public class Test {
     public static void main(String[] args) {

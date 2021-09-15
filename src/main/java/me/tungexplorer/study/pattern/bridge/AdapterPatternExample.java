@@ -1,4 +1,4 @@
-package me.tungexplorer.study;
+package me.tungexplorer.study.pattern.bridge;
 
 interface WebDriver {
     void getElement();
